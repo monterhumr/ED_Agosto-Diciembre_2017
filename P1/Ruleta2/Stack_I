@@ -1,0 +1,6 @@
+public interface Stack_I<E> {
+	public boolean isEmpty();
+	public void push(E data);
+	public E pop();
+	public E top();
+}
