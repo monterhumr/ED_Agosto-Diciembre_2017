@@ -1,5 +1,3 @@
-package ruleta1;
-
 import javax.swing.JOptionPane;
 import stack.Stack;
 
